@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soumi Ray</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [an E-commerce Website](https://github.com/Soumi-Code/E-Commerce)
+- 🔭 I’m currently working on [an AI Career Coach](https://github.com/Soumi-Code/career-coach)
 
 - 🌱 I’m currently learning **full-stack web development with the MERN stack**
 
 - 👯 I’m looking to collaborate on **innovative web projects, startups, or open-source tools where I can contribute my skills in front-end and back-end development.**
 
-- 👨‍💻 All of my projects are available at [https://soumi-ray.vercel.app/](https://soumi-ray.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://soumi-ray.vercel.app/)
 
 - 💬 Ask me about **my journey from beginner to building real projects.**
 
