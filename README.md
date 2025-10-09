@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumi Ray</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [an AI Career Coach](https://github.com/Soumi-Code/career-coach)
-
 - 🌱 I’m currently learning **full-stack web development with the MERN stack**
 
 - 👯 I’m looking to collaborate on **innovative web projects, startups, or open-source tools where I can contribute my skills in front-end and back-end development.**
